@@ -1,0 +1,26 @@
+{
+  "name": "Ganesh Singh | Data Analyst Portfolio",
+  "short_name": "Ganesh Singh",
+  "description": "Portfolio of Ganesh Singh — Data Analyst, Python, SQL, Power BI, and Generative AI specialist.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080b",
+  "theme_color": "#e11d48",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "resume", "developer"],
+  "screenshots": []
+}
